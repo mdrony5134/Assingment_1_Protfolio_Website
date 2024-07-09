@@ -226,3 +226,86 @@ header {
 }
 
 /* inspiration end here */
+
+/* target start here */
+.target_container {
+    max-width: 1080px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+
+.target_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.target_content h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.target_content p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    width: 850px;
+    text-align: center;
+}
+
+.target_cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.target_card {
+    width: 345px;
+    padding: 30px;
+    border-radius: 16px;
+}
+
+.target_card h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+.target_card p {
+    width: 284px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+
+.target_card a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+#html {
+    background: rgba(255, 76, 30, 0.05);
+}
+
+#css {
+    background: rgba(0, 76, 232, 0.05);
+}
+
+#js {
+    background: rgba(255, 223, 0, 0.05);
+}
+
+/* target start end */
