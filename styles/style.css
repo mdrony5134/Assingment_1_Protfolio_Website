@@ -308,4 +308,65 @@ header {
     background: rgba(255, 223, 0, 0.05);
 }
 
-/* target start end */
+/* target  end  here*/
+
+/* support start here */
+.support_container {
+    max-width: 1080px;
+    height: 313px;
+    margin: 0 auto;
+    /* background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2); */
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin-bottom: 50px;
+}
+
+.support_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 25px;
+}
+
+.support_content h3 {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.support_content p {
+    width: 600px;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.contact_box input {
+    width: 548px;
+    padding: 10px 15px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+}
+
+.contact_box button {
+    padding: 10px 15px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 600;
+    border: none;
+}
+
+/* support end here */
