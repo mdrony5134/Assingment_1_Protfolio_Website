@@ -51,7 +51,7 @@ header {
 }
 
 .banner_container {
-    width: 600px;
+    width: 850px;
     margin: 0 auto;
 }
 
@@ -78,6 +78,7 @@ header {
     font-size: 12px;
     font-weight: 400;
     text-align: center;
+    opacity: 0.7;
 }
 
 .banner_content a {
@@ -131,6 +132,7 @@ header {
     margin-top: 15px;
     margin-bottom: 40px;
     text-align: center;
+    opacity: 0.7;
 }
 
 .web_development_footer_content {
@@ -168,6 +170,7 @@ header {
     font-weight: 400;
     margin-top: 15px;
     margin-bottom: 30px;
+    opacity: 0.7;
 }
 
 .content_description button {
@@ -211,6 +214,7 @@ header {
     margin-top: 15px;
     margin-bottom: 30px;
     text-align: center;
+    opacity: 0.7;
 }
 
 .inspiration_video {
@@ -255,6 +259,7 @@ header {
     margin-bottom: 30px;
     width: 850px;
     text-align: center;
+    opacity: 0.7;
 }
 
 .target_cards {
@@ -285,6 +290,7 @@ header {
     opacity: 0.7;
     margin-top: 8px;
     margin-bottom: 20px;
+    opacity: 0.7;
 }
 
 .target_card a {
@@ -346,6 +352,7 @@ header {
     font-weight: 400;
     margin-top: 15px;
     margin-bottom: 25px;
+    opacity: 0.7;
 }
 
 .contact_box input {
